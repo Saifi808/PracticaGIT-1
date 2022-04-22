@@ -1,0 +1,2 @@
+let saludo= "bienvenidos a Git";
+console.log(saludo);
